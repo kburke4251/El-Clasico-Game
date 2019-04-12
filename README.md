@@ -6,7 +6,9 @@ Lionel Messi and his team, Barcelona, have fought hard throughout the season to 
 Try to score 3 goals and win the Champions League before Sergio Ramos tackles you 3 times.
 
 ### Screenshots
-![image](Screenshot(1).png)
+![Screenshot (2)](https://user-images.githubusercontent.com/31481973/56054387-ab8f1e80-5d24-11e9-9ae7-360ef83b2723.png)
+![Screenshot (1)](https://user-images.githubusercontent.com/31481973/56054388-ab8f1e80-5d24-11e9-881d-f926f0db81f7.png)
+
 
 ### Instructions
 Space to begin playing. Arrow keys to move up, down, left, and right. Space to shoot. Hit the goalkeepers 3 times to stop them from defending the goals. Shoot at the goal 3 times to score and increase your points by 1. Space to restart after the game has finished. Escape (ESC) key to exit.
